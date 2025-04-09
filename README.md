@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![Maven](https://img.shields.io/badge/Maven-Build-red?logo=apache-maven)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Postman](https://img.shields.io/badge/Testado%20com-Postman-orange?logo=postman)
 
 Aplicativo de terminal feito em **Java** para consultar a previsão do tempo em tempo real, usando a **API da OpenWeather**.
 
